@@ -1,5 +1,5 @@
-Hi, I’m @linhbuitung \n
-I’m interested in Game Development \n
+Hi, I’m @linhbuitung. 
+I’m interested in Game Development. 
 I’m currently learning Unity2D, Algorithm and Data structure
 
 
