@@ -1,6 +1,6 @@
 Hi, I’m @linhbuitung. 
-I’m interested in Game Development. 
-I’m currently learning Unity2D, Algorithm and Data structure
+I’m interested in Web Design and Game Development. 
+I’m currently learning Unity2D, Algorithm and Data structure, HTML and CSS
 
 
 <!---
